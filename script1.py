@@ -6,7 +6,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 app = Flask(__name__)
 
 # Replace this with your actual Telegram Bot Token
-BOT_TOKEN = '7769785094:AAFOY5_AxNHxBYWoG6EQMPg_8MMSNvcO9TY'
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
 
 @app.route('/webhook', methods=['POST'])
 def webhook():

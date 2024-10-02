@@ -1,5 +1,5 @@
 
-# BasketBuddy
+# BasketBuddy(https://t.me/basket_analysis_bot)
 
 **BasketBuddy** is a product recommendation system designed to help retailers maximize sales by suggesting complementary products based on customer shopping behaviors. Utilizing advanced algorithms and data analysis techniques, BasketBuddy provides actionable insights that enhance the shopping experience and drive conversions.
 
